@@ -1,0 +1,5 @@
+data/*.txt
+
+# Ignore all text files in the data directory
+# data1.txt
+# data2.txt
